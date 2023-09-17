@@ -2,7 +2,7 @@
 This is a Machine Learning Project using NLP (Natural Language Processing) with Restaurant reviews and analyzing the text data to finally perform sentiment analysis using Text classification.
 
 ## Aim
-The aim of this analysis is to build a prediction model to predict whether a review on the restaurant is positive or negative. To do so, I worked on Restaurant Review dataset , and loaded it into predicitve algorithms Multinomial Naive Bayes, Bernoulli Naive Bayes and Logistic Regression. Towards the end I tried to find the "best" model for predicting the review's sentiment.
+The aim of this analysis is to build a prediction model to predict whether a review on the restaurant is positive or negative. To do so, I worked on Restaurant Review dataset , and loaded it into predicitve algorithms Multinomial Naive Bayes, Bernoulli Naive Bayes, Logistic Regression and Support Vector Machine. Towards the end I tried to find the "best" model for predicting the review's sentiment.
 
 Dataset: Restaurant_Reviews.tsv is a dataset from Kaggle datasets which consists of 1000 reviews on a restaurant.
 
